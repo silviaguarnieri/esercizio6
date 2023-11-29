@@ -1,0 +1,18 @@
+section {
+  height: 50vh;
+}
+
+#section1 {
+  position: relative;
+}
+#section1 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#section1 h1 {
+  font-size: 6em;
+}
+
+/*# sourceMappingURL=style.css.map */
